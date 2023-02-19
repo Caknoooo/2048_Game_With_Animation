@@ -183,4 +183,19 @@ class Board {
   }
 }
 
+// Export the code
 export { Board };
+
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
