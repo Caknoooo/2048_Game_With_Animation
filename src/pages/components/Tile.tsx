@@ -35,7 +35,7 @@ const Tile = ({tile}: tiles) => {
   let classes = classArray.join(' ');
 
   return (
-    <span className={classes}></span>
+    <span className={classes}></span> 
   )
 }
 
